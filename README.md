@@ -1,2 +1,2 @@
-# dragon-fruit-pi
-A mini cyberdeck powerd by a raspberry pi 
+## dragon-fruit-pi
+A mini cyberdeck powered by a raspberry pi 
