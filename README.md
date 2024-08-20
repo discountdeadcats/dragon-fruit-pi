@@ -8,3 +8,6 @@ A mini cyberdeck powered by a Raspberry Pi
 -cm4
 
 -USB power bank
+## stl file
+credit goes to the original designers I just modified them a little
+
