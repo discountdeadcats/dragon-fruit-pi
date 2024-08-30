@@ -7,7 +7,7 @@ A mini cyberdeck powered by a Raspberry Pi
 
 -cm4
 
--USB power bank
+-Anker Slim Powercore 10000
 ## stl file
 credit goes to the original designers I just modified them a little
 
